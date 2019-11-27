@@ -420,7 +420,7 @@ MonoBehaviour:
   - tag: Cube
     prefab: {fileID: 6546995119590904509, guid: 868cc4851c457f24992daea660fb6d1b,
       type: 3}
-    size: 15
+    size: 150
 --- !u!4 &1748487708
 Transform:
   m_ObjectHideFlags: 0
